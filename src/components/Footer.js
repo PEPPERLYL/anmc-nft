@@ -13,7 +13,7 @@ import Subscribe from "./Subscribe";
 const socialLink = [
   {
     title: "whatsapp",
-    link: "https://chat.whatsapp.com/HMYf7iKJqAu24n1prFckmQ",
+    link: "https://chat.whatsapp.com/IPVzaMWMGX2LtoOHHtayn6",
     src: <FaWhatsapp size={30} />,
   },
   {
